@@ -1,0 +1,16 @@
+* {
+  font-family: "Google Sans Code", monospace;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
+}
+
+.center-align {
+  text-align: center;
+}
